@@ -1,3 +1,1 @@
-# DSP
-digtial signal processing 
-ex-1-10
+Digital signal processing for real world application
